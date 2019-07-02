@@ -1,5 +1,5 @@
 # quartic-curves
-Accompanying electronic data for my MSc thesis (supervised by Nils Bruin)
+Accompanying electronic data for my MSc thesis (supervised by Nils Bruin).
 
 Here we detail a complete list of all curves considered together with the algorithms that should make it relatively easy to check the computations.
 TestCurves.m lists all the curves, represented by a sequence of 9 numbers in the interval {−20,...,20}.
