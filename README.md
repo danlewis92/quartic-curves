@@ -6,4 +6,4 @@ TestCurves.m lists all the curves, represented by a sequence of 9 numbers in the
 Curves.m provides a minimal model for each of these curves. 
 routines.m includes all our algorithms in machine-readable format for MAGMA.
 
-If you run into any problems, or have any other questions, please contact me at dla170@sfu.ca
+If you run into any problems, or have any other questions, please contact me at dlewis3@math.arizona.edu
